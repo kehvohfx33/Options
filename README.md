@@ -19,6 +19,7 @@ Copy `.env.example` to `.env.production` and fill in your values:
 
 ```bash
 cp .env.example .env.production
+
 ```
 
 Edit `.env.production`:
